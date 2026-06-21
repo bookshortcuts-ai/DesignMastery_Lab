@@ -1,0 +1,6 @@
+{
+  "name": "DM Flow",
+  "description": "Professional agency-style hub with role-based authentication, project management, badge awards, leaderboard, team area, and profile portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
